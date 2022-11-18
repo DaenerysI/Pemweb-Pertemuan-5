@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0S;
+}
+
+body{
+    background-color: bisque;
+    color: black;
+    font-size: 2rem;
+}
+h2 {
+    padding-top: 1rem;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 0.57em 0;
+    color: black;
+}
+
+.wrapper {
+    background-color: brown;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+select,
+input {
+    height: 25px;
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.data {
+    color: #ffff;
+    font-size: 1.3rem;
+    background-color:brown;
+}
+
+table,
+td {
+    text-align: justify;
+    border: 0.5px solid black;
+    padding: 0 0.3rem 0 0.3rem;
+}
+
+thead{
+    padding: 3px;
+    border: 1px solid white;
+    background-color: black;
+    color: beige;
+    text-align: center;
+}

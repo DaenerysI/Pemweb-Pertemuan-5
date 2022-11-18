@@ -1,2 +1,0 @@
--Muhamad Bintang Fitriatuderajat
--120140040
